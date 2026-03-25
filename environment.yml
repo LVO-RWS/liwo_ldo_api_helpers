@@ -1,0 +1,17 @@
+name: liwo-ldo-api-helpers
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - requests
+  - pandas
+  - openpyxl
+  - tqdm
+  - geopandas
+  - shapely
+  - pyproj
+  - rasterio
+  - owslib
+  - folium
+  - pyjwt
+  - python-dotenv
