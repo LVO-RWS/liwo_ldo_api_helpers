@@ -15,3 +15,7 @@ dependencies:
   - folium
   - pyjwt
   - python-dotenv
+  - gdal
+  - matplotlib
+  - matplotlib-scalebar
+  - contextily
