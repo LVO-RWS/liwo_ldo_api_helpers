@@ -29,4 +29,6 @@
 - `de_crossborder/04_plot_scenarios_nrw_crossborder_ldo.py`
   - Zet de `CROSS_BORDER` + `DE_ONLY` selectie op een kaart voor visuele controle.
 - `genereer_kaart_scenario.py`
-  - Genereert png uit kaart van een tiff file (bijvoorbeeld waterdiepte).
+  - Genereert png-kaart van een tiff file (bijvoorbeeld waterdiepte).
+- `vind_nieuw_scenario_ldo.py`
+  - Vind een nieuw scenario uit LDO.
