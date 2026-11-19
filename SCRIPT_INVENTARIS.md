@@ -45,3 +45,10 @@ Deze repo draait nu op:
 | `download_alle_lagen_liwo.py` | Bulk-download van WFS/WCS via één script |
 | `export_wcs_coverages_liwo.py` | WCS coverage IDs (2.0.1 + 1.0.0) |
 | `download_wcs_coverage_liwo.py` | Eén WCS coverage als GeoTIFF |
+
+## Tools (`tools`)
+
+| Script | Use-case |
+|---|---|
+| `lekkages_verwijderen/01_bepaal_lekkagecellen.py` | Cellen die op t=0 al nat zijn in een referentierun als puntenshapefile wegschrijven |
+| `lekkages_verwijderen/02_demp_lekkages_in_zip.py` | Die lekkagecellen in alle scenario's van een zip met `FlowFM_fou.nc` + `FlowFM_clm.nc` droogzetten |

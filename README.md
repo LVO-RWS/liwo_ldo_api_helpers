@@ -222,6 +222,7 @@ WMS is view-only en staat bewust niet in de downloadflow.
 
 - `LDO/`: LDO scripts voor dagelijks gebruik.
 - `LIWO/`: LIWO scripts voor dagelijks gebruik.
+- `tools/lekkages_verwijderen/`: lekkagecellen bepalen en dempen in D-Flow FM-resultaten (zie de README in die map).
 - `output/ldo/`: alle LDO outputbestanden.
 - `output/liwo/`: alle LIWO outputbestanden.
 
