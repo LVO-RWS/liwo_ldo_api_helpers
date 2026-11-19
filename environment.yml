@@ -7,8 +7,11 @@ dependencies:
   - pandas
   - openpyxl
   - tqdm
+  - numpy
   - geopandas
-  - shapely
+  - shapely>=2
+  - xarray
+  - netcdf4
   - pyproj
   - rasterio
   - owslib
